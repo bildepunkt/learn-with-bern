@@ -1,0 +1,8 @@
+# project
+node_modules
+npm-debug.log
+dist/
+
+# system
+.DS_Store
+.idea
