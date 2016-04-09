@@ -26,6 +26,9 @@
     "url": "https://github.com/c-concat-p/learn-with-bern/issues"
   },
   "homepage": "https://github.com/c-concat-p/learn-with-bern#readme",
+  "dependencies": {
+    "spritewerk": "c-concat-p/spritewerk"
+  },
   "devDependencies": {
     "babel-cli": "^6.6.5",
     "babel-core": "^6.7.4",
