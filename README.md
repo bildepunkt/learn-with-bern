@@ -1,7 +1,7 @@
 Learn with Bern
 ===============
 
-A Javascript/HTML5 rpg-runner game with Spritewerk. "Help Bernie educate the masses in this hilariously fun rpg-runner"
+A Javascript/HTML5 rpg-runner game built with [Spritewerk](http://github.com/c-concat-p/spritewerk). "Help Bernie educate the masses in this hilariously fun rpg-runner"
 
 References
 ----------
